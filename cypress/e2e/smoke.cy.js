@@ -3,4 +3,14 @@ describe('Smoke Test', () => {
     cy.visit('https://www.automationexercise.com/')
     cy.contains('Home').should('be.visible')
   })
+
+  it('Verify app launch', () => {
+    cy.visit('https://www.automationexercise.com/')
+    cy.contains('Home3').should('be.visible')
+  })
+
+  it('Verify app launch', () => {
+    cy.visit('https://www.automationexercise.com/')
+    cy.contains('Home2').should('be.visible')
+  })
 })
