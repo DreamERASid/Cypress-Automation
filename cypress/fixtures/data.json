@@ -1,0 +1,19 @@
+[
+    {
+    "user":"siddhant@test.com",
+    "psw":"123",
+    "Name":"Siddhant"
+    },
+
+    {
+    "user":"Harshit@test.com",
+    "psw":"123",
+    "Name":"Neha"
+    },
+
+    {
+    "user":"Neha@test.com",
+    "psw":"123",
+    "Name":"Harshit"
+    }
+]

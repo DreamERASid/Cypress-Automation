@@ -1,0 +1,22 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "siddhant's project",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "cypress": "^15.8.1",
+    "cypress-mochawesome-reporter": "^4.0.2",
+    "mochawesome": "^7.1.4",
+    "mochawesome-merge": "^5.1.0",
+    "mochawesome-report-generator": "^6.3.2"
+  }
+}
